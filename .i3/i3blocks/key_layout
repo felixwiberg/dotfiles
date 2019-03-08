@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+LO=$(setxkbmap -query | awk 'BEGIN{layout="";variant=""}/^layout/{layout=$2}/^variant/{variant=" ("$2")"}END{printf("%s%s",layout,variant)}')
+if [ "$LO" == 'us' ]
+then
+    notify-send -t 400 'swedish'    
+    setxkbmap -layout se
+    echo 🇸🇪
+else
+    notify-send -t 400 'english'
+    setxkbmap -layout us
+    echo 🇺🇸
+fi
