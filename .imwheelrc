@@ -1,4 +1,8 @@
-# Speed up scrolling for the document viewer
+# Speed up scrolling for chromium
 "^chromium$"
+    None, Up, Button4, 4
+    None, Down, Button5, 4
+# Speed up scrolling for spotify
+"^spotify$"
     None, Up, Button4, 4
     None, Down, Button5, 4
