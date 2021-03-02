@@ -1,5 +1,0 @@
-2021/02/10-18:17:48.654 5893 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_cryptowat.ch_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/10-18:17:53.167 5cfe Level-0 table #5: started
-2021/02/10-18:17:53.173 5cfe Level-0 table #5: 1248 bytes OK
-2021/02/10-18:17:53.176 5cfe Delete type=0 #3
-2021/02/10-18:17:53.177 5cfe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

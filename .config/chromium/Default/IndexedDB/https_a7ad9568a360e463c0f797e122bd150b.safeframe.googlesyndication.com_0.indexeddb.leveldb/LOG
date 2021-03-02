@@ -1,8 +1,0 @@
-2020/12/20-17:29:47.637 a1dc Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_a7ad9568a360e463c0f797e122bd150b.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/20-17:29:47.637 a1dc Recovering log #7
-2020/12/20-17:29:47.637 a1dc Reusing old log /home/felix/.config/chromium/Default/IndexedDB/https_a7ad9568a360e463c0f797e122bd150b.safeframe.googlesyndication.com_0.indexeddb.leveldb/000007.log 
-2020/12/20-17:29:50.115 a491 Level-0 table #11: started
-2020/12/20-17:29:50.115 a491 Level-0 table #11: 0 bytes OK
-2020/12/20-17:29:50.120 a491 Delete type=0 #7
-2020/12/20-17:29:50.121 a491 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/20-17:29:50.121 a491 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

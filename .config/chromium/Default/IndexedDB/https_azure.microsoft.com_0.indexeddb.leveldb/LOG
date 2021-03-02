@@ -1,5 +1,0 @@
-2021/02/10-18:05:02.799 5149 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_azure.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/10-18:05:08.062 5893 Level-0 table #5: started
-2021/02/10-18:05:08.064 5893 Level-0 table #5: 1542 bytes OK
-2021/02/10-18:05:08.067 5893 Delete type=0 #3
-2021/02/10-18:05:08.067 5893 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

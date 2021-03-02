@@ -1,7 +1,0 @@
-2020/12/20-19:16:11.233 5c0 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_discuss.pytorch.org_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/20-19:16:11.233 5c0 Recovering log #3
-2020/12/20-19:16:11.246 5c0 Reusing old log /home/felix/.config/chromium/Default/IndexedDB/https_discuss.pytorch.org_0.indexeddb.leveldb/000003.log 
-2020/12/20-19:16:15.679 ce1 Level-0 table #5: started
-2020/12/20-19:16:15.691 ce1 Level-0 table #5: 732168 bytes OK
-2020/12/20-19:16:15.694 ce1 Delete type=0 #3
-2020/12/20-19:16:15.694 ce1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
