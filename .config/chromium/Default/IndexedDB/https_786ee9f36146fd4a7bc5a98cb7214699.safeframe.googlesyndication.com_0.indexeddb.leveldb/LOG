@@ -1,0 +1,5 @@
+2021/02/10-18:28:13.121 5cfe Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_786ee9f36146fd4a7bc5a98cb7214699.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-18:28:15.635 6158 Level-0 table #5: started
+2021/02/10-18:28:15.641 6158 Level-0 table #5: 439 bytes OK
+2021/02/10-18:28:15.645 6158 Delete type=0 #3
+2021/02/10-18:28:15.645 6158 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

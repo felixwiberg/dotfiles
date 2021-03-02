@@ -1,0 +1,7 @@
+2021/02/10-20:47:22.941 3a0 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-20:47:22.941 3a0 Recovering log #3
+2021/02/10-20:47:22.958 3a0 Reusing old log /home/felix/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/02/10-20:47:57.473 3a0 Level-0 table #5: started
+2021/02/10-20:47:57.492 3a0 Level-0 table #5: 1554927 bytes OK
+2021/02/10-20:47:57.496 3a0 Delete type=0 #3
+2021/02/10-20:47:57.496 3a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

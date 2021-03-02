@@ -1,0 +1,15 @@
+2021/02/10-21:19:45.540 1d17 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-21:19:45.540 1d17 Recovering log #13
+2021/02/10-21:19:45.540 1d17 Reusing old log /home/felix/.config/chromium/Default/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb/000013.log 
+2021/02/10-21:19:51.482 1d17 Level-0 table #17: started
+2021/02/10-21:19:51.488 1d17 Level-0 table #17: 868 bytes OK
+2021/02/10-21:19:51.491 1d17 Delete type=0 #13
+2021/02/10-21:19:51.491 1d17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/10-21:19:51.492 1d17 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x0c\x00L\x00o\x00c\x00a\x00l\x00S\x00t\x00o\x00r\x00a\x00g\x00e' @ 61 : 1
+2021/02/10-21:19:51.492 1d17 Compacting 1@1 + 1@2 files
+2021/02/10-21:19:51.495 1d17 Generated table #18@1: 31 keys, 725 bytes
+2021/02/10-21:19:51.495 1d17 Compacted 1@1 + 1@2 files => 725 bytes
+2021/02/10-21:19:51.498 1d17 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/10-21:19:51.498 1d17 Delete type=2 #17
+2021/02/10-21:19:51.498 1d17 Delete type=2 #5
+2021/02/10-21:19:51.499 1d17 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0c\x00L\x00o\x00c\x00a\x00l\x00S\x00t\x00o\x00r\x00a\x00g\x00e' @ 61 : 1 .. (end); will stop at (end)

@@ -1,0 +1,1 @@
+[2020-11-09 09:06:51.879] [error] [src/electron-main/api/index] "keytar" module is unsupported by the system:  The name org.freedesktop.secrets was not provided by any .service files

@@ -1,0 +1,15 @@
+2021/02/10-20:47:20.851 375 Reusing MANIFEST /home/felix/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-20:47:20.851 375 Recovering log #7
+2021/02/10-20:47:20.854 375 Reusing old log /home/felix/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2021/02/10-21:28:50.663 2137 Level-0 table #12: started
+2021/02/10-21:28:50.679 2137 Level-0 table #12: 285901 bytes OK
+2021/02/10-21:28:50.681 2137 Delete type=0 #7
+2021/02/10-21:28:50.681 2137 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/10-21:28:50.681 2137 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 1585 : 1
+2021/02/10-21:28:50.681 2137 Compacting 1@1 + 1@2 files
+2021/02/10-21:28:50.684 2137 Generated table #13@1: 158 keys, 12196 bytes
+2021/02/10-21:28:50.684 2137 Compacted 1@1 + 1@2 files => 12196 bytes
+2021/02/10-21:28:50.686 2137 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/10-21:28:50.686 2137 Delete type=2 #9
+2021/02/10-21:28:50.686 2137 Delete type=2 #12
+2021/02/10-21:28:50.686 2137 Manual compaction at level-1 from '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 1585 : 1 .. (end); will stop at (end)

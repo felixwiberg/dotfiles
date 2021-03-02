@@ -1,0 +1,9 @@
+2021/02/28-11:13:36.539 acb Reusing MANIFEST /home/felix/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/02/28-11:13:36.539 acb Recovering log #24
+2021/02/28-11:13:36.540 acb Reusing old log /home/felix/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000024.log 
+2021/02/28-12:26:18.141 1fcc Compacting 1@1 + 1@2 files
+2021/02/28-12:26:18.155 1fcc Generated table #27@1: 848 keys, 55451 bytes
+2021/02/28-12:26:18.155 1fcc Compacted 1@1 + 1@2 files => 55451 bytes
+2021/02/28-12:26:18.157 1fcc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/28-12:26:18.157 1fcc Delete type=2 #25
+2021/02/28-12:26:18.157 1fcc Delete type=2 #23
